@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/QL8k5zCiNnoUPaABuY/giphy.gif">
 
-<br><br>
+<br>
 ### 📖 About Me
 - 🌱 I’m currently pursuing my Master’s in Computer Science at the University of Illinois Urbana-Champaign.
 - 💡 Interests: **Computer Vision**, **Machine Learning**, **Software Development**
