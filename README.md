@@ -6,8 +6,7 @@
   <em>Masters in Computer Science student at <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a></em>
 </p>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/xT0GqetcAXDkrGkire/giphy.gif">
-
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/QL8k5zCiNnoUPaABuY/giphy.gif">
 
 <br><br>
 ### 📖 About Me
