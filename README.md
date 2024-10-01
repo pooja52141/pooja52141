@@ -1,7 +1,4 @@
 <!-- Add a nice header or banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QL8k5zCiNnoUPaABuY/giphy.gif" alt="Laptop Coding GIF" width="500"/>
-</p>
 
 <h1 align="center">Hello! 👋 I'm Padma Pooja Chandran</h1>
 
@@ -9,17 +6,18 @@
   <em>Masters in Computer Science student at <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a></em>
 </p>
 
----
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/xT0GqetcAXDkrGkire/giphy.gif">
 
+
+
+<br><br>
 ### 📖 About Me
 - 🌱 I’m currently pursuing my Master’s in Computer Science at the University of Illinois Urbana-Champaign.
 - 💡 Interests: **Computer Vision**, **Machine Learning**, **Software Development**
-- 🤝 I’m open to collaborating on exciting projects in Machine Learning and Software Development.
+- 🤝 I’m open to collaborating on exciting projects in Machine Learning and Software Development. 
 
----
-
-### 🔗 Let's Connect!
-<p align="center">
+<br>
+<p align="left">
   <a href="https://www.linkedin.com/in/padmapoojachandran/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -28,8 +26,8 @@
   </a>
 </p>
 
+<br><br>
 ---
-
 ### 🛠️ My Skills
 
 #### Languages
