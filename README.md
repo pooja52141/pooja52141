@@ -9,7 +9,6 @@
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/xT0GqetcAXDkrGkire/giphy.gif">
 
 
-
 <br><br>
 ### 📖 About Me
 - 🌱 I’m currently pursuing my Master’s in Computer Science at the University of Illinois Urbana-Champaign.
